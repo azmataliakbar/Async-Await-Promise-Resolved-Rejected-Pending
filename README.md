@@ -19,11 +19,13 @@ Question 7: Create a TypeScript function that takes a number as an argument and 
 Question 8: Write a TypeScript function that uses async/await to wait for an array of Promises to resolve and then returns an array of their results.
 <br>
 Question 9: Create a TypeScript function that uses setTimeout to call a function repeatedly every 2 seconds.
-
+<br>
 Question 10: Write a TypeScript function that uses async/await to wait for a Promise to resolve and then returns a new Promise that resolves with the result multiplied by 2.
 <br>
 # Please check and test and guide for more improvement
 <br>
 async_await with promise ( resolved, , pending, reject )
+<br>
+# Assignment Teacher: Fahad Khan
 <br>
 # Author: Azmat Ali
