@@ -24,7 +24,7 @@ Question 10: Write a TypeScript function that uses async/await to wait for a Pro
 <br>
 # Please check and test and guide for more improvement
 <br>
-async_await with promise ( resolved, , pending, reject )
+async_await with promise ( resolved, pending, rejected )
 <br>
 # Assignment Teacher: Fahad Khan
 <br>
